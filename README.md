@@ -122,9 +122,7 @@ The stakeholders should not focus on features such as Night/weekend call usage, 
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./AnalysisOnAircraftRisk.ipynb) or 
-
-review this [presentation](./Shamilz_Aviation_Corporation_fleet_expansion_Analysis.pdf).
+See the full analysis in the https://github.com/sharonAoko/Predicting_CustomerChurn_at_SyriaTel_Company.
 
 For additional info, contact Sharon Leonida Aoko at (mailto:sharon.aoko@student.moringaschool.com)
 
@@ -132,9 +130,9 @@ For additional info, contact Sharon Leonida Aoko at (mailto:sharon.aoko@student.
 ## Repository Structure
 
 ```
-├── data
-├── images
+├── syriatel_churn.csv
+├── churn_by_plan.png
 ├── README.md
-├── Predicting_CustomerChurn_at_SyriaTel_Company.pdf
+├── PredictingCustomerChurn_at_SyriaTel_Company.pdf
 └── Predicting_CustomerChurn_at_SyriaTel_Company.ipynb
 ```
